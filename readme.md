@@ -23,7 +23,7 @@ This project is created **solely for learning and educational purposes**.
 
 ## Attribution
 
-Original game concept: [Cramped Room of Death](https://lhaushofer.itch.io/cramped-room-of-death)
+Original game on Steam: [Cramped Room of Death](https://store.steampowered.com/app/1389200/Cramped_Room_of_Death/)
 
 ---
 
