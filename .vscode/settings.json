@@ -1,9 +1,8 @@
-{
+﻿{
   "files.associations": {
     ".code-workspace": "jsonc",
     ".babelrc": "json",
-    ".eslintrc": "jsonc",
-    ".eslintrc*.json": "jsonc",
+    ".oxlintrc.json": "jsonc",
     ".stylelintrc": "jsonc",
     "stylelintrc": "jsonc",
     ".htmlhintrc": "jsonc",
@@ -40,20 +39,27 @@
   "scss.validate": false,
   "less.validate": false,
   "editor.formatOnSave": true,
+  "editor.defaultFormatter": "oxc.oxc-vscode",
+  "oxc.fmt.configPath": ".oxfmtrc.json",
   "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "oxc.oxc-vscode",
+    "editor.formatOnSave": true
   },
   "[javascriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "oxc.oxc-vscode",
+    "editor.formatOnSave": true
   },
   "[typescript]": {
-    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    "editor.defaultFormatter": "oxc.oxc-vscode",
+    "editor.formatOnSave": true
   },
   "[typescriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "oxc.oxc-vscode",
+    "editor.formatOnSave": true
   },
   "[json5]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "oxc.oxc-vscode",
+    "editor.formatOnSave": true
   },
   "javascript.format.enable": false,
   "typescript.format.enable": false,
