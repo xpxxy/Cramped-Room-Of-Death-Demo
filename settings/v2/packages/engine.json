@@ -92,16 +92,7 @@
         "_value": true
       }
     },
-    "includeModules": [
-      "2d",
-      "base",
-      "gfx-webgl",
-      "gfx-webgl2",
-      "marionette",
-      "profiler",
-      "tween",
-      "ui"
-    ],
+    "includeModules": ["2d", "base", "gfx-webgl", "gfx-webgl2", "marionette", "profiler", "tween", "ui"],
     "noDeprecatedFeatures": {
       "value": false,
       "version": ""
